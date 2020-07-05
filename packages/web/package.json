@@ -1,0 +1,10 @@
+{
+      "name": "@root/web",
+      "typings": "lib/index.d.ts",
+      "main": "lib/index.js",
+      "version": "1.0.0",
+      "dependencies": {
+            "@root/shared": "file:../shared"
+      },
+      "devDependencies": {}
+}

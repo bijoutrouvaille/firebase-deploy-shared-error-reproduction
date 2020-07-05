@@ -1,0 +1,8 @@
+.git/
+.vscode/
+node_modules/
+.DS_Store
+.firebaserc
+**/*/tsconfig.tsbuildinfo
+deploy-debug.log
+firebase-debug.log
