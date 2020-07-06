@@ -4,7 +4,7 @@
       "main": "lib/index.js",
       "version": "1.0.0",
       "engines": {
-        "node": "10"
+            "node": "10"
       },
       "dependencies": {
             "@root/shared": "file:../shared",
